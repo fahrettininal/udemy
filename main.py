@@ -14,3 +14,4 @@ kredilerilistele();
 kredilerilistele();
 kredilerilistele();
 kredilerilistele();
+kredilerilistele()
