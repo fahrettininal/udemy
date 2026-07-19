@@ -1,14 +1,16 @@
-dolarDun = 7.65
-dolarBugun = 7.75
+def kredilerilistele():
 
-if dolarDun > dolarBugun:
-    print("Azalış oku")
-    
-elif dolarDun < dolarBugun:
-    print("Azalış oku")
+    krediler = ["Hızlı Kredi", "Maaşını Halkbank'tan alanlara özel", "Mutlu emekli ihtiyaç kredisi"]
+#alias
+    for kredi in krediler:
+        print("<option>"+kredi+"<option>")
 
-else:
-    print("Eşittir oku")
 
-print("BİTTİ")
-
+kredilerilistele()
+kredilerilistele();
+kredilerilistele();
+kredilerilistele();
+kredilerilistele();
+kredilerilistele();
+kredilerilistele();
+kredilerilistele();
