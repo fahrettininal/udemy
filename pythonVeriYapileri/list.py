@@ -20,3 +20,7 @@ sehirler = list(("Ankara", "İstanbul"))
 print(sehirler)
 print(len(sehirler))
 
+#diğer fonksiyonlar
+print(sehirler.clear())
+
+
