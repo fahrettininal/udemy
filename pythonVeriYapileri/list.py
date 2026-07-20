@@ -22,5 +22,5 @@ print(len(sehirler))
 
 #diğer fonksiyonlar
 print(sehirler.clear())
-
+print("Ankara sayısı = " + str(sehirler.count()))
 
