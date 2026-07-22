@@ -1,5 +1,5 @@
 
-tupleListe = (2,4,6,"Ankara",(234),[])
+tupleListe = (2,4,6,"Ankara",(2,3,4),[])
 liste = [2,4,6,"Ankara",[3,4,5],()]
 
 liste[0]=6
@@ -8,7 +8,7 @@ liste[0]=6
 tupleDeger = ("Engin",)
 print(type(tupleDeger))
 
-print(tupleListe[1.2])
+print(tupleListe[1:2])
 print(liste[1:2])
 
 print(tupleListe[-2])
